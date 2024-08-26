@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio1.console", "ejercicio1.console.csproj", "{CBE7E1FF-A1A7-4604-8210-2A3C38B00D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejericio2.Console", "..\ejericio2.Console\ejericio2.Console.csproj", "{55FC00B1-203B-4DD9-BE57-A448A4E038C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE7E1FF-A1A7-4604-8210-2A3C38B00D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE7E1FF-A1A7-4604-8210-2A3C38B00D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE7E1FF-A1A7-4604-8210-2A3C38B00D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE7E1FF-A1A7-4604-8210-2A3C38B00D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FC00B1-203B-4DD9-BE57-A448A4E038C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FC00B1-203B-4DD9-BE57-A448A4E038C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FC00B1-203B-4DD9-BE57-A448A4E038C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FC00B1-203B-4DD9-BE57-A448A4E038C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A732E27D-FC4E-4E79-81D2-38BAD1C44D55}
+	EndGlobalSection
+EndGlobal
